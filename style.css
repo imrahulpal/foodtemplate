@@ -1,0 +1,166 @@
+img{
+
+    width: 1480px;
+    /* margin-right: 50px; */
+    height:600px;
+}
+
+
+.aman{
+    margin-left: -9px;
+    margin-top: -9px;
+}
+.welcome{
+    font-size: 40px;
+    margin-top: -600px;
+    margin-left: 60px;
+    color: white;
+}
+.hours{
+   margin-left: 60px;
+   color: white;
+}
+.other{
+    margin-left: 60px;
+    
+}
+.other button{
+    background-color: aqua;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+}
+.time{ 
+    height: 600px;
+    width: 1500px;
+   margin-top: 314px;
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+}
+#speciality1{
+    opacity: 1;
+}
+
+.a1{
+    width: 150px;
+    height: 100px;
+    
+}
+.a2{
+    font-size: 20px;
+    text-align: center;
+  
+}
+.a3{
+    height: 100px;
+    width: 150px;   
+    /* margin-left: 600px;
+    margin-bottom: 7000px; */
+}
+
+.a4{
+    font-size: 20px;
+    text-align: center;
+}
+
+.specialities{
+  
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+   
+}
+
+.a5{
+    height: 100px;
+    width: 150px;
+}
+.a6{
+    font-size: 20px;
+    text-align: center;
+}
+
+.specialities2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    opacity: 1;
+}
+.a7{
+    height: 100px;
+    width: 150px;
+}
+.a8{
+    font-size: 20px;
+    text-align: center;
+}
+.a9{
+    height: 100px;
+    width: 150px;
+}
+.a10{
+    font-size: 20px;
+    text-align: center;
+}
+.a11{
+    height: 100px;
+    width: 150px;
+}
+.a12{
+    font-size: 20px;
+    text-align: center;
+}
+
+.time img{
+    border-radius: 15px;
+}
+
+.specialities3{ 
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    padding: 0px 50px;
+    padding-top: 50px;
+    opacity: 1;
+}
+
+.card{
+    border: 2px white solid;
+    padding: 100px;
+    color: white;
+}
+
+.a13{
+    height: 100px;
+    width: 150px;
+    display: block;
+}
+
+.card span{
+    font-size: 40px;
+    text-align: center;
+}
+
+.candle{
+    display: flex;
+    justify-content: center;
+    
+}
+.a15{
+    margin-left: 284px;
+}
+.a16{
+    color: white;
+    border-color: white;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 60px;
+}
+
+.a16:hover{
+    cursor: pointer;
+}
